@@ -45,7 +45,7 @@ header ul li a {
     color: #a70000;
 }
 header ul li a:hover {
-    background-color: #a70000;
+    background-color: white;
     color: white;
     transition: background-color 0.3s ease-in-out;
 }
