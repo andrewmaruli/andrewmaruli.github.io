@@ -58,7 +58,7 @@ header ul li a:hover {
     padding-top: 10px;
   }
 
-.mySlides img {
+.img-slides img {
     border-radius: 10px;
     position: relative;
     display: block;
@@ -642,7 +642,7 @@ input[type=submit]:hover {
   .img-overlay {
     height: 300px;
   }
-  .mySlides img {
+  .img-slides img {
     height: 300px;;
   }
   .img-title {
